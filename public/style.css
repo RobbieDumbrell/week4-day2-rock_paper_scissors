@@ -1,4 +1,11 @@
-body{
-  background-color: #00ff21;
+body {
+  background-color: rgb(28, 9, 65);
+  color: white;
+  text-align: center;
+  padding: 100px 0;
+}
+
+a {
+  text-decoration: underline;
   color: yellow;
 }
